@@ -177,7 +177,7 @@ public class Programme_main {
 					String DESIGNPIZZ= null;
 					double TARIFPIZZ= 0;
 					
-				//	System.out.println("VOICI LA LISTE DES COMPOSANTS DU PIZZA:");
+					System.out.println("VOICI LA LISTE DES PIZZAS:");
 					
 					while (rs.next()) {
 						//pizza
